@@ -45,13 +45,6 @@ It includes breakdowns of SPF, DKIM, DMARC, source IP, reply-to mismatches, and 
 
 ---
 
-## 🎯 Learning Outcome
-
-- Developed email header analysis skills
-- Identified real-world phishing red flags
-- Understood SPF, DKIM, and DMARC mechanisms
-
----
 ## 📚 Learning Outcomes
 - Developed hands-on skills in analyzing real-world phishing emails
 - Understood technical and psychological tactics used by attackers
