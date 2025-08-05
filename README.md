@@ -8,9 +8,9 @@ This project is part of a cybersecurity internship task. The objective is to ana
 
 | File Name              | Description                                      |
 |------------------------|--------------------------------------------------|
-| `sample_email.eml`     | Real phishing email sample from [phishing_pot GitHub repository](https://github.com/rf-peixoto/phishing_pot) |
+| `Sample_email.eml`     | Real phishing email sample from [phishing_pot GitHub repository](https://github.com/rf-peixoto/phishing_pot) |
 | `header_analysis.md`   | In-depth header analysis and verdict             |
-
+| `Google_Tool_Box_Header_Analyzer.png` |Screenshot of SPF, DKIM, and DMARC results |
 ---
 
 ## 🧠 Task Objective
